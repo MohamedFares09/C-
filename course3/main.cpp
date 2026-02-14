@@ -3,11 +3,8 @@ using namespace std ;
 
 int main(){
 
-int num1 = 20 ; 
-int num2 = 30 ; 
-int num3 = 10 ;
-cout << "Total = "<< num1+num2+num3;
-
+int age = 25 ;
+cout<<"After 5 Years you will be "<<age+5 << "years old"; 
 
 
 
