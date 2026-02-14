@@ -2,10 +2,10 @@
 using namespace std ;
 
 int main(){
-     cout << "Dear Sir\\Madam , "<<endl;
-     cout << "How Are you ?"<<endl;
-     cout<< "My name is \"Mohamed \" , nice to meet you " ;
-     cout << "\a";
+     cout << "Ali \t Ahmed \t lena "<<endl;
+     cout << "Fadi \t Zain \t Mona "<<endl;
+      
+    
     
     return 0 ;
 }
